@@ -3,7 +3,7 @@
 🚀 **Data Engineer | Data Scientist | AI & ML Enthusiast**  
 🎓 **Master’s in Applied Data Science @ Clarkson University**  
 
----
+
 
 ## 🌟 About Me  
 
