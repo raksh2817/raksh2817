@@ -2,7 +2,6 @@
 
 🚀 **Data Engineer | Data Scientist | AI & ML Enthusiast**  
 🎓 **Master’s in Applied Data Science @ Clarkson University**  
-💡 **Turning Data into Scalable Solutions & AI-powered Innovations**  
 
 ---
 
@@ -30,16 +29,22 @@ I'm a **Data Engineer & AI Enthusiast** with a deep passion for **building scala
 
 ## 🛠️ Tech Stack  
 
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-F37626?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/-Azure%20Databricks-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white)
+![Alteryx](https://img.shields.io/badge/-Alteryx-1F8ACB?style=for-the-badge&logo=alteryx&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MS Project](https://img.shields.io/badge/-MS%20Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Chrono](https://img.shields.io/badge/-Chrono-6A5ACD?style=for-the-badge&logo=clockify&logoColor=white)
 
 ---
 
@@ -51,7 +56,7 @@ I'm a **Data Engineer & AI Enthusiast** with a deep passion for **building scala
 
 📚 **Lifelong Learner & Tech Explorer** – I stay ahead of the curve in **Machine Learning, Generative AI, and Cloud Data Solutions**. My curiosity fuels my growth.  
 
-💡 **Passionate About AI & Innovation** – From **real-time predictive analytics** to **AI-powered automation**, I’m always exploring **what’s next in data science & engineering**.  
+💡 **Passionate About AI & Innovation** – From **real-time predictive analytics** to **Agentic AI**, I’m always exploring **what’s next in data science & engineering**.  
 
 ---
 
