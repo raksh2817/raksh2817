@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Rakshith Srinath**!  
 
-🚀 **Experienced Data Engineer | Learning to be Data Scientist and an AI Enthusiast**  
+🚀 **Experienced Data Engineer | Learning to be a Data Scientist, AI Enthusiast**  
 🎓 **Master’s in Applied Data Science @ Clarkson University**  
  
 
