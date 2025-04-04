@@ -8,13 +8,21 @@
 
 ## 🌟 About Me  
 
-I'm a **Data Engineer & AI Enthusiast** with a deep passion for **building scalable data pipelines, optimizing big data workflows, and extracting intelligence from massive datasets**.  
+Hey! I'm Rakshith — a curious mind who loves making sense of chaos, especially when it comes in the form of **millions of data points**. 💡  
+I'm currently decoding the data universe as a **Master’s student in Applied Data Science** at Clarkson University, with hands-on experience in both **industry and research**.
 
-✨ **From Engineering to AI** – My journey began in **Data Engineering**, working with **Big Data, Apache Spark, and Cloud Platforms** for large-scale enterprises. Now, I’m integrating **AI & Machine Learning** to drive innovation in data-driven systems.  
+🧩 **Engineer by degree, explorer by choice** — I started out as a Data Engineer, wrangling big data with tools like **Apache Spark, Azure Databricks, and PySpark**, but I quickly found my passion at the intersection of **technology, problem-solving, and storytelling through data**.
 
-🔬 **Bridging Research & Industry** – As a **Graduate Research Assistant**, I develop **predictive models and AI-driven solutions** for sustainable materials in **civil engineering research**. My previous role as a **Data Engineer at LatentView Analytics** helped **Fortune 50 clients optimize real-time data processing & cloud migration strategies**.  
+🔍 **From Fortune 50 projects to academic research** – I've worked on **high-impact analytics systems** for major enterprises, and now I’m diving into **research projects** that predict material behavior for sustainable construction. Yes, I do build pipelines, but I also help build the future.
 
-🌍 **Beyond the Code** – I thrive on **solving real-world problems**, collaborating on **cutting-edge AI applications**, and continuously learning emerging technologies in **ML, Generative AI, and Cloud Computing**.  
+💬 Outside the terminal, you’ll find me either:  
+- 🏋️‍♂️ Lifting weights at the gym (fitness is my therapy)  
+- 📸 Clicking aesthetic shots (former college fest photographer!)  
+- 🧠 Thinking about how to build the next cool GenAI agent  
+- ♟️ Or deep in a strategy game or cricket match  
+
+I believe in **life-long learning**, **meaningful collaboration**, and using technology to create **tangible, human-centered impact**. Let’s make data do more than just sit in tables — let’s make it *talk*.
+
 
 ---
 
